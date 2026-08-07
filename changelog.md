@@ -1,2 +1,6 @@
 # 1.0.0
-- Edit this file to change your mod's changelog.
+- Release
+- Fixed most bugs and incompatibilities
+
+# 0.5.0-alpha
+- Fixed some bugs and incompatibilities
